@@ -19,6 +19,7 @@ Wordpress on Windows Server + IIS setup (WIMP) stack utilizing Kudu git-based de
 - nuget
 - PS-Install
 - scoop?
+- Certify the Web (windows server desktop application / requires license)
 - Github
 - Cloudflare
 - MySQL community edition (for local install on PR Deploy instances)
